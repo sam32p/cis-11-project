@@ -1,3 +1,4 @@
+# Test Calculator </br>CIS-11 Spring 2024
 # Creation Information
 
 Created by: Antonio Gil, Jocelyne Gonzalez, Samantha Parada
@@ -6,9 +7,7 @@ Date published: June 6th, 2024
 
 # Description
 
-This project contains a program built with the LC-3 assembly language. It serves as a test score calculator, displaying the minumum, maximum, and average score from a provided set of numbers, alongside its corresponding letter grade.
-
-*Code walkthrough soon...*
+This project contains a program built with the LC-3 assembly language. It serves as a test score calculator, displaying the minimum, maximum, and average score from a provided set of numbers, alongside its corresponding letter grade. The significance of this program is that it allows teachers and students an insight into how the students are doing in the class. This will allow school districts to change the curriculum based on students' performance. As well as allowing students to keep track of their grades.
 
 # Instructions
 
